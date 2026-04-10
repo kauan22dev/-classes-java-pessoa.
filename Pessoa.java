@@ -1,4 +1,4 @@
-package Testes;
+package Kauan;
 public class Pessoa {
 String nome;
 int idade;
